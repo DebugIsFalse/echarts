@@ -38,7 +38,7 @@ body:
     required: true
 
 - type: input
-  attribute:
+  attributes:
     label: Link to Minimal Reproduction
     description: |
       If the reproduction does not need a build setup, please provide a link to [Official Editor](https://echarts.apache.org/examples/editor.html), [JSFiddle](https://jsfiddle.net/plainheart/e46ozpqj/7/), [JSBin](https://jsbin.com/) or [CodePen](https://codepen.io/Ovilia/pen/dyYWXWM). If it requires a build setup, you can use [CodeSandbox](https://codesandbox.io/s/echarts-basic-example-template-mpfz1s) or provide a GitHub repo.
